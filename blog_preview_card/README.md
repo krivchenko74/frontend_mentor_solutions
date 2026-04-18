@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor's solution page](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor's solution page](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-semantics-and-accessibility-V319D6UFVs)
+- Live Site URL: [GitHub Pages](https://krivchenko74.github.io/frontend_mentor_solutions/blog_preview_card/)
 
 ## My process
 

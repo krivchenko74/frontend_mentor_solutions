@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor's solution page](https://www.frontendmentor.io/solutions/responsive-socials-links-component-sHdbnIlZh_)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://krivchenko74.github.io/frontend_mentor_solutions/social_links/)
 
 ## My process
 

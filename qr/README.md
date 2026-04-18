@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Frontend Mentor's solution page](https://www.frontendmentor.io/solutions/qr-code-components-built-with-semantic-html-and-css-flexbox-and-grid-2g__F1zhez)
-- Live Site URL: [GitHub Pages](https://krivchenko74.github.io/frontendmenthor_qr/)
+- Live Site URL: [GitHub Pages](https://krivchenko74.github.io/frontend_mentor_solutions/qr/)
 
 ## My process
 
